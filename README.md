@@ -7,5 +7,5 @@ It is a 3D navigation Screen Animation Effect.
   <img 
     width=40%
     height=40%
-    src="https://user-images.githubusercontent.com/101565812/168588574-da65e622-4d99-4213-a371-98330178d49d.gif" >
+    src="https://user-images.githubusercontent.com/101565812/169246964-de627163-827d-4e3e-9209-635f56c5a4dc.gif" >
 </p>
