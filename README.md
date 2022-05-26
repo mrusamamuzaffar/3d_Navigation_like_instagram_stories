@@ -1,6 +1,6 @@
 # 3D animated navigation screen animation - flutter
 
-It is a 3D navigation Screen Animation Effect.
+It is a 3D navigation Animation Effect.
 
 
 <p align="center">
