@@ -1,4 +1,4 @@
-# 3D animated navigation screen animation - flutter
+# 3D animated navigation animation - flutter
 
 It is a 3D navigation Animation Effect.
 
